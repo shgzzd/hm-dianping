@@ -2848,3 +2848,7 @@
 2022/10/25 21:39:22 [error] 19152#19192: *29 CreateFile() "D:\projects\hm-dianping\nginx-1.18.0/html/hmdp/js/axios.min.map" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /js/axios.min.map HTTP/1.1", host: "localhost:8080"
 2022/10/25 21:40:01 [error] 19152#19192: *34 CreateFile() "D:\projects\hm-dianping\nginx-1.18.0/html/hmdp/js/axios.min.map" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /js/axios.min.map HTTP/1.1", host: "localhost:8080"
 2022/10/25 21:40:03 [error] 19152#19192: *36 CreateFile() "D:\projects\hm-dianping\nginx-1.18.0/html/hmdp/js/axios.min.map" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /js/axios.min.map HTTP/1.1", host: "localhost:8080"
+2022/10/30 21:24:23 [emerg] 8608#13296: CreateDirectory() "D:\projects\hm-dianping\nginx-1.18.0/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2022/10/30 21:24:46 [emerg] 16688#5720: CreateDirectory() "D:\projects\hm-dianping\nginx-1.18.0/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2022/11/02 16:34:07 [emerg] 4940#18832: CreateDirectory() "D:\projects\hm-dianping\nginx-1.18.0/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2022/11/02 16:34:22 [emerg] 6012#27788: CreateDirectory() "D:\projects\hm-dianping\nginx-1.18.0/temp/client_body_temp" failed (3: The system cannot find the path specified)
